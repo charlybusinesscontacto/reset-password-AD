@@ -1,7 +1,3 @@
-# reset-password-AD
-Script para cambio masivo de contraseñas en Active Directory con reporte CSV
-
-
 CAMBIO MASIVO DE CONTRASEÑAS EN ACTIVE DIRECTORY
 GUIA DE USO
 =========================
